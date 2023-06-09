@@ -15,7 +15,7 @@ Cette page permet à l'utilisateur de visualiser les films recommandés par TheM
 
 Voici un GIF qui résume cette page:
 
-![](https://github.com/arthsf/MyMovieApp/blob/master/Films (1).gif)
+![](https://github.com/arthsf/MyMovieApp/blob/master/Films.gif)
 
 ### « Rechercher »
 
