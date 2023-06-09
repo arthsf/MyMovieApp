@@ -15,7 +15,7 @@ Cette page permet à l'utilisateur de visualiser les films recommandés par TheM
 
 Voici un GIF qui résume cette page:
 
-
+![](SVID_20230609_203342_1.gif)
 
 ### « Rechercher »
 
