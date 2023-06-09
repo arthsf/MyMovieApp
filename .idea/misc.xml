@@ -1,0 +1,43 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Adilet/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_expandable_list_item_1.xml" value="0.3359375" />
+        <entry key="..\:/Users/Adilet/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Adilet/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_checked.xml" value="0.3359375" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/drawable/ic_close.xml" value="0.1955" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout-land/activity_movie_details.xml" value="0.41409147095179233" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout-land/youtube_player_item.xml" value="0.18" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/activity_movie_details.xml" value="0.33" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/activity_person_details.xml" value="0.33" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/fragment_actors.xml" value="0.3359375" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/fragment_favorite_movies.xml" value="0.3359375" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/fragment_movies.xml" value="0.25" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/fragment_root.xml" value="0.3359375" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/fragment_search_movies.xml" value="0.33" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/fragment_storage_movies.xml" value="0.3359375" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/movie_item.xml" value="0.33" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/object_item.xml" value="0.33" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/object_item_horizontal.xml" value="0.33" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/object_item_portrait.xml" value="0.3359375" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/spinner_custom_item.xml" value="0.3359375" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/videos_cpinner_item.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Adilet/MyMovieApp/app/src/main/res/layout/youtube_player_item.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

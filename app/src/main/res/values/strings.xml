@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyMovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="recommendMoviesText">Films recommandés</string>
+    <string name="similarMoviesText">Films recommandés</string>
+    <string name="videosText">Bandes-annonces et extraits</string>
+
+    <string name="network_error">Il n\'y a pas de connexion internet.</string>
+    <string name="generic_error">Il y a eu un problème.</string>
+    <string name="service_unavailable">Erreur de serveur.</string>
+
+    <string name="popular_category">Populaire</string>
+    <string name="top_rated_category">Films en tendance</string>
+    <string name="now_playing_category">En salle</string>
+    <string name="upcoming_category">A venir</string>
+
+</resources>
