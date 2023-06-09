@@ -21,9 +21,13 @@ Voici un GIF qui résume cette page:
 
 Comme son nom l'implique, cette activité permet de rechercher un film
 
+![](https://github.com/arthsf/MyMovieApp/blob/master/Recherche.gif)
+
 ### Détail d'un film
 
 Cette activité consite en la description complète d'un film, ainsi que, si disponnible, sa bande annonce, ainsi que des propositions de films similaires et recommandés.
+
+![](https://github.com/arthsf/MyMovieApp/blob/master/Détails.gif)
 
 ### Acteurs en tendance
 
